@@ -9,7 +9,7 @@
  * https://github.com/jsanahuja/InstagramFeed
  *
  */
-var InstagramFeed = (function(){
+module.exports = function() {
     var defaults = {
         'host': "https://www.instagram.com/",
         'username': '',
@@ -187,4 +187,4 @@ var InstagramFeed = (function(){
             this.run();
         }
     };
-})();
+};
