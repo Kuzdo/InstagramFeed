@@ -1,5 +1,5 @@
 {
-  "name": "InstagramFeed",
+  "name": "@Kuzdo/InstagramFeed",
   "description": "Instagram Feed without access token. Not using the Instagram API",
   "homepage": "https://github.com/Kuzdo/InstagramFeed",
   "version": "1.0.0",
